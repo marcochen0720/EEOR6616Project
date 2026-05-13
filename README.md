@@ -5,7 +5,6 @@ paradigms for the LP, ADMM/IPM for the quadratically regularized OT, and
 Sinkhorn for the entropy-regularized OT, plus a comparison with the
 Bures–Wasserstein closed form on Gaussians.
 
-**Author:** Jiayi Chen — UNI: `JC6601` — `jc6601@columbia.edu`
 
 ## Layout
 
