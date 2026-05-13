@@ -1,5 +1,7 @@
 # IEOR 6616 — Computational Optimal Transport
 
+Jiayi Chen UNI:JC6601
+
 Programming project: solving discrete optimal transport with three solver
 paradigms for the LP, ADMM/IPM for the quadratically regularized OT, and
 Sinkhorn for the entropy-regularized OT, plus a comparison with the
