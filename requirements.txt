@@ -1,0 +1,9 @@
+numpy>=2.0
+scipy>=1.13
+matplotlib>=3.9
+cvxpy>=1.5
+osqp>=1.0
+clarabel>=0.7
+scs>=3.2
+POT>=0.9
+ortools>=9.10
